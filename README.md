@@ -11,3 +11,6 @@ http://www.slideshare.net/artdavid91/tugas-1-ki-0316-kelompok-1
 
 Link UML Class Diagram :
 https://docs.google.com/document/d/1FNQN8_4StOnmXwXK5zfqVBz3Db-eU2Jz5TTfYkxjmhc/edit
+
+Link UML Perbaikan Class Diagram :
+https://docs.google.com/document/d/1Nx72pEFjIRsQczVnOVZ_khzzM2rPYSZt3uq1_ucVeCU/edit?ts=57189f19
